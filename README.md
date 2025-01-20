@@ -1,10 +1,12 @@
 # Naseel Sinan
 
-    👋 Hi, I’m @sinannaseel
+    👋 Hi, I’m @sinannaseel a PhD Student at UoM at RAICo Facility, advised by Dr. Murilo Marinho
     👀 I’m interested in Robotic manipulation
-    🌱 I’m currently learning control through dual quaternions and jacobians :))
-    💞️ I’m looking to collaborate on coding for control
-    📫 How to reach me ...
-    😄 Pronouns: ...
-    ⚡ Fun fact: My interests are contagious
+    
+    CAD Files : 
+    
+        Glove Box : https://grabcad.com/library/glove-box-5
+            OBJ For coppeliaSIm (227 MB) 
+            STEP File (1.89 MB)   
+
 
