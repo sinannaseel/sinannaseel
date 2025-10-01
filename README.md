@@ -10,6 +10,6 @@ Find me here:
 
 
 <p align="center">
-  <img src="https://media.tenor.com/8uZxV-xyzAA/tenor.gif" alt="Snorlax crawling" width="250"/>
+  <img src="[https://media.tenor.com/8uZxV-xyzAA/tenor.gif](https://tenor.com/view/snorlax-crawl-pokemon-cute-anime-gif-17779588)" alt="Snorlax crawling" width="250"/>
 </p>
 
