@@ -6,10 +6,8 @@ Find me here:
 
 - [ORCID](https://orcid.org/0009-0002-4357-9764)  
 - [LinkedIn](https://linkedin.com/in/naseel-sinan)   
-- [sinannaseel](https://github.com/sinannaseel)
-
+- [GitHub](https://github.com/sinannaseel)
 
 <p align="center">
-  <img src="[https://media.tenor.com/8uZxV-xyzAA/tenor.gif](https://tenor.com/view/snorlax-crawl-pokemon-cute-anime-gif-17779588)" alt="Snorlax crawling" width="250"/>
+  <img src="https://media.tenor.com/images/8uZxV-xyzAA/tenor.gif" alt="Snorlax crawling" width="250"/>
 </p>
-
