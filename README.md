@@ -37,8 +37,7 @@ Extreme Environment (Nuclear Gloveboxes)  ·  UR and Robotiq Systems
 
 ---
 
-## GitHub Stats
-
+<img src="https://media1.tenor.com/m/ecs1bZ4yk3gAAAAd/gengar-peek-peekaboo.gif" width="150" />
 
 <div align="center">
 
