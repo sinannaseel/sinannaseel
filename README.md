@@ -39,17 +39,9 @@ Extreme Environment (Nuclear Gloveboxes)  ·  UR and Robotiq Systems
 
 ## GitHub Stats
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sinannaseel&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinannaseel&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinannaseel&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" width="100%" />
-</div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sinannaseel&theme=dark&hide_border=true)
 
 </div>
 
