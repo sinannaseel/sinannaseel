@@ -1,13 +1,62 @@
-# Hello there 👋
+<div align="center">
 
-I’m **Naseel Sinan**, a researcher interested in robotic manipulation
+# Naseel Sinan
+### Robotics Researcher · Manipulation & Grasping in Extreme Environments
 
-Find me here:
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4357--9764-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-4357-9764)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naseel--sinan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naseel-sinan)
+[![Website](https://img.shields.io/badge/Website-sinannaseel.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://sinannaseel.github.io)
+[![Location](https://img.shields.io/badge/Manchester-UK-FF4500?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-- [ORCID](https://orcid.org/0009-0002-4357-9764)  
-- [LinkedIn](https://linkedin.com/in/naseel-sinan)   
-- [GitHub](https://github.com/sinannaseel)
+</div>
 
-<p align="center">
-  <img src="https://media.tenor.com/images/8uZxV-xyzAA/tenor.gif" alt="Snorlax crawling" width="250"/>
-</p>
+---
+
+## About
+
+I'm a robotics researcher at the **University of Manchester**, working on robotic manipulation and grasping in extreme environments. Currently contributing to [**MarinhoLab**](https://github.com/MarinhoLab), focusing on robot control and motion planning.
+
+---
+
+## Research Interests
+
+```
+Robotic Manipulation                      ·  Grasp Planning & Control
+Motion Planning                           ·  Reinforcement Learning
+Extreme Environment (Nuclear Gloveboxes)  ·  UR and Robotiq Systems
+```
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sinannaseel&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinannaseel&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sinannaseel&theme=dark&hide_border=true)
+
+</div>
+
+<div align="center">
+
+*"Build robots that work when it matters most."*
+
+</div>
