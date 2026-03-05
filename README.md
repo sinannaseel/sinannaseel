@@ -47,6 +47,4 @@ Extreme Environment (Nuclear Gloveboxes)  ·  UR and Robotiq Systems
 
 <div align="center">
 
-*"Build robots that work when it matters most."*
-
 </div>
