@@ -33,9 +33,6 @@ Extreme Environment (Nuclear Gloveboxes)  ·  UR and Robotiq Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
@@ -43,10 +40,11 @@ Extreme Environment (Nuclear Gloveboxes)  ·  UR and Robotiq Systems
 ## GitHub Stats
 
 <div align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=sinannaseel&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinannaseel&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinannaseel&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" width="100%" />
 </div>
 
 <div align="center">
